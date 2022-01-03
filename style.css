@@ -1,0 +1,38 @@
+.avator {
+    
+    display: block;
+    margin: 10px 20px 10px 0;
+    float: left;
+	padding: 0px 20px 5px 0;
+    
+}
+
+.surname {
+	text-transform: uppercase;
+	font-size: 120%;
+	font-weight: light;
+}
+.fontForAll {
+	font-family: Verdana, sans-serif;
+}
+
+.nameSection {
+    font-size: medium;
+}
+.dates {
+	display: block;
+	 float: left;
+	 margin: 20px;
+     font-size: small;
+	
+}
+#container {
+	max-width: 1320px;
+	min-width: 600px;
+	background-color: #B0CAE3;
+	margin: 20px;
+	padding: 20px;
+    margin: auto;
+}
+
+
