@@ -20,3 +20,11 @@
 _Faculty of information systems software, qualification software engineer_
 
 **2013**. _Belarusian state university of informatics and radioelectronics. Faculty of engineering and economics, qualification engineer-economist._
+
+## Languages
+
+_English – A2_
+
+## Certification
+
+**2018** _Refresher courses at the Center for Advanced Studies of Executives and Information Technology Specialists. course "Working with Oracle SQL and PL / SQL"_
